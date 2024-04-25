@@ -1,9 +1,38 @@
-*{margin: 0;
-    padding: 0;
-    }
-.h1{
-    color: red;
+
+div{
+    width:400px; height:150px ;
+    background-color:  #0d215a2c;
+    border: 4px dotted;
+    padding:40px;
+    margin:50px;
+    display: inline-table;
+    text-align: center;
+    border-color: rgb(54, 216, 29);
+    border-style: solid;
 }
-.h2{
-    color: rgba(0, 0, 255, 0.253);
+div p {
+   display: table-cell; 
+   vertical-align: middle;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size:32px;
+   text-transform: 
+   uppercase;
+   color: #1c861c;}
+
+   .azul{
+    background-color: blue;
+    width: auto;
+   }
+   .rojo{
+    background-color: brown;
+    width: 100px;
+   }
+   .verde{
+    background-color: #1c861c;
+width: 200px;
 }
+   .gris{
+    background-color: rgb(67, 67, 67);
+    width: 300px;
+   }
+ 
