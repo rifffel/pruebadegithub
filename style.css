@@ -1,38 +1,40 @@
+/* horarios */
 
-div{
-    width:400px; height:150px ;
-    background-color:  #0d215a2c;
-    border: 4px dotted;
-    padding:40px;
-    margin:50px;
-    display: inline-table;
-    text-align: center;
-    border-color: rgb(54, 216, 29);
+/* index */
+.h1{
+ color: #062eca;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ .h2{
+    color: #420e8f;
+    font-family: sans-serif;
+ }
+ .fondo{
+    background-image: url("img/fondo\ de\ pantalla.jpg");
     border-style: solid;
-}
-div p {
-   display: table-cell; 
-   vertical-align: middle;
-   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-   font-size:32px;
-   text-transform: 
-   uppercase;
-   color: #1c861c;}
+    padding: 50px;
+    text-align: left;
+    border-color: rgb(0, 0, 106);
+    border-width: 5px;
+    margin: 5px;
+ }
+ .footer{
+    background-color: rgb(102, 184, 199);
+    border-style: solid;
+    border-color: rgb(10, 108, 108);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 
-   .azul{
-    background-color: blue;
-    width: auto;
-   }
-   .rojo{
-    background-color: brown;
-    width: 100px;
-   }
-   .verde{
-    background-color: #1c861c;
-width: 200px;
-}
-   .gris{
-    background-color: rgb(67, 67, 67);
-    width: 300px;
-   }
+ }
+ .nav{
+    border-style: ridge;
+    border-color: black;
+        margin-left: 5px;
+        margin-right: 5px;
+        background-color: rgb(196, 255, 255);
+        padding: 5px;  
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+
+ /* contacto */
  
