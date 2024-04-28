@@ -1,5 +1,59 @@
 /* horarios */
-
+.bodyhorario{
+   padding: 10px;
+   margin: 50px;
+}
+.dias{
+   font-weight: bold;
+   font-size: 19px;
+}
+.horario{
+font-style: italic;
+}
+.horario2{
+   font-style: italic;
+}
+.lunes{
+   color: #420e8f;
+}
+.martes{
+   color: #f60202;
+}
+.miercoles{
+   color: #00ff00;
+}
+.jueves{
+   color: #ffd500;
+}
+.viernes{
+   color: #ff00d4;
+}
+.ho1{
+   color: #420e8f;
+}
+.ho2{
+   color: #f60202;
+}
+.ho3{color: #00ff00;
+}
+.ho4{
+   color: #ffd500;
+}
+.ho5{
+   color: #ff00d4;
+}
+.ho6{
+   color: #420e8f;
+}
+.ho7{
+   color: #f60202;
+}
+.ho8{
+   color: #00ff00;
+}
+.ho9{
+   color: #ffd500;
+}
 /* index */
 .h1{
  color: #062eca;
