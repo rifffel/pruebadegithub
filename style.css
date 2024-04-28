@@ -1,5 +1,6 @@
 /* horarios */
 .bodyhorario{
+   background-image: url(img/hermoso-concepto-cambio-horario-primavera.jpg);
    padding: 10px;
    margin: 50px;
 }
@@ -23,7 +24,7 @@ font-style: italic;
    color: #00ff00;
 }
 .jueves{
-   color: #ffd500;
+   color: #ff006a;
 }
 .viernes{
    color: #ff00d4;
@@ -37,7 +38,7 @@ font-style: italic;
 .ho3{color: #00ff00;
 }
 .ho4{
-   color: #ffd500;
+   color: #ff006a;
 }
 .ho5{
    color: #ff00d4;
@@ -52,7 +53,7 @@ font-style: italic;
    color: #00ff00;
 }
 .ho9{
-   color: #ffd500;
+   color: #ff006a;
 }
 /* index */
 .h1{
