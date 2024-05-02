@@ -1,6 +1,6 @@
 /* horarios */
 .bodyhorario{
-background-color: antiquewhite;
+background-color: #00ffb3;
    padding: 10px;
    margin: 50px;
 }
@@ -21,7 +21,7 @@ font-style: italic;
    color: #f60202;
 }
 .miercoles{
-   color: #00ff00;
+   color: #028d02;
 }
 .jueves{
    color: #ff006a;
@@ -35,7 +35,7 @@ font-style: italic;
 .ho2{
    color: #f60202;
 }
-.ho3{color: #00ff00;
+.ho3{color: #028d02;
 }
 .ho4{
    color: #ff006a;
@@ -50,7 +50,7 @@ font-style: italic;
    color: #f60202;
 }
 .ho8{
-   color: #00ff00;
+   color: #028d02;
 }
 .ho9{
    color: #ff006a;
@@ -86,10 +86,24 @@ font-style: italic;
   justify-content: space-around;
   border-style: solid;
   margin: 5px;
-  border-width: 2px;
   padding: 15px;
   border-color: #001463;
   border-radius: 50px;
  }
  /* contacto */
- 
+ .fondo3{
+   background-color: #00ffb3;
+ }
+ /* proyecto final */
+
+ /*index*/
+ .ul1{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   border-style: solid;
+  
+ }
+ .logo{
+   border-style: solid;
+ }
