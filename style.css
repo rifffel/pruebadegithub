@@ -95,15 +95,9 @@ font-style: italic;
    background-color: #00ffb3;
  }
  /* proyecto final */
-
- /*index*/
- .ul1{
+.navegador{
    display: flex;
    flex-direction: row;
    justify-content: space-around;
    border-style: solid;
-  
- }
- .logo{
-   border-style: solid;
- }
+}
