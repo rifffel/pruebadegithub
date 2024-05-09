@@ -96,6 +96,9 @@ font-style: italic;
  }
  
    /*tarea*/
+   .contra{
+      padding: 50px;
+   }
    .contenedor{
       display: flex;
       flex-wrap: wrap;
@@ -126,4 +129,3 @@ font-style: italic;
    border-style: solid;
    margin: 50px;
 }
-  
