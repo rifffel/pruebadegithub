@@ -118,4 +118,12 @@ font-style: italic;
    .fondo23{
       background-image: url(../img/9279915.jpg);
     }
+  .caja34{
+   margin: 50px;
+   border-style: solid;
+  }
+.caja54{
+   border-style: solid;
+   margin: 50px;
+}
   
