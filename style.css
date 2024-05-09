@@ -94,18 +94,7 @@ font-style: italic;
  .fondo3{
    background-color: #00ffb3;
  }
- /* proyecto final */
- .fondo1{
-  background-image: url(img/9279915.jpg);
-
- }
-.t2{
-   display: flex;
-   flex-direction: row;
-   justify-content: space-around;
-   border-style: solid;
-   border-radius: 50px;
-   }
+ 
    /*tarea*/
    .contenedor{
       display: flex;
@@ -125,6 +114,8 @@ font-style: italic;
    width: 100%;
 }
    }
-   
-
-
+   /*proyecto final*/
+   .fondo23{
+      background-image: url(../img/9279915.jpg);
+    }
+  
